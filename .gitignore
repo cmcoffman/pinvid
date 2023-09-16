@@ -1,5 +1,8 @@
 # Input video files
-./video
+video/
+
+# OSX Junk
+.DS_store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
